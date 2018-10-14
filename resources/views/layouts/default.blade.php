@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
     @include('includes.head')
 </head>
@@ -10,11 +10,11 @@
         @include('includes.header')
     </header>
 
-    <div id="main" class="row">
+    <main role="main">
 
         @yield('content')
 
-    </div>
+    </main>
 
     <footer class="row">
         @include('includes.footer')
