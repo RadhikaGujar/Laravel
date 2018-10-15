@@ -15,19 +15,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/about">About</a>
                     </li>
-                    <li class="nav-item">
-
-                        <a class="nav-link" href="/why-learana">Why NJIT?</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/connect">Connect</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/login">Login</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/get-started">Get Started</a>
-                    </li>
+                    
                 </ul>
 
             </div>
